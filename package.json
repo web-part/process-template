@@ -1,0 +1,19 @@
+{
+  "name": "@webpart/process-template",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-part/process-template.git"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "html-entities-decoder": "^1.0.0"
+  }
+}
