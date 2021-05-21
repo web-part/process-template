@@ -1,4 +1,4 @@
-
+const console = require('@webpart/console');
 const decode = require('html-entities-decoder');
 const cheerio = require('cheerio');
 
