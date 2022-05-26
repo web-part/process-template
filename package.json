@@ -1,6 +1,6 @@
 {
   "name": "@webpart/process-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,7 @@
     "url": "https://github.com/web-part/process-template.git"
   },
   "dependencies": {
-    "@webpart/console": "^2.0.2",
+    "@webpart/console": "^2.1.1",
     "cheerio": "1.0.0-rc.3",
     "html-entities-decoder": "^1.0.0"
   }
