@@ -1,7 +1,7 @@
 {
   "name": "@webpart/process-template",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "对指定的 html 内容中所有首层的 `<template>` 标签进行转换。 ",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
@@ -13,7 +13,7 @@
     "url": "https://github.com/web-part/process-template.git"
   },
   "dependencies": {
-    "@webpart/console": "^2.1.1",
+    "@webpart/console": "^3.0.2",
     "cheerio": "1.0.0-rc.3",
     "html-entities-decoder": "^1.0.0"
   }
